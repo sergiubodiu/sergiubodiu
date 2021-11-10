@@ -10,7 +10,7 @@ Digital transformation is what propels businesses and industries forward. Organi
 The pandemic has jump started and pushed many organizations into full gear to digitize their business models and transform with increased business agility, resiliency, and velocity, while driving new innovation and business values for the customers. 
 
 <figure>
-  <img src="../images/serverless_comparison_new.png" alt="Serverless in the enterprise, 2021">
+  <img src="../images/serverless-next-cloud-evolution.png" alt="Serverless in the enterprise, 2021">
   <figcaption>Figure 1: Organizations will continue to invest in serverless. 95 percent of users plan to maintain or increase their serverless investments during the next year. (Source: <a href="https://www.ibm.com/downloads/cas/ZJLWQOAQ">'Serverless in the enterprise, 2021' (PDF, 1.8 MB)</a>)</figcaption>
 </figure>
 
