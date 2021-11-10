@@ -6,28 +6,29 @@ on:
       - main  # Set a branch to deploy
   pull_request:
 
-jobs:
-  deploy:
-    runs-on: ubuntu-20.04
-    steps:
-      - uses: actions/checkout@v2
-        with:
-          submodules: true  # Fetch Hugo themes (true OR recursive)
-          fetch-depth: 0    # Fetch all history for .GitInfo and .Lastmod
+steps:
+  - name: Git checkout
+    uses: actions/checkout@v2
+    with:
+      ref: main
 
-      - name: Setup Hugo
-        uses: peaceiris/actions-hugo@v2
-        with:
-          hugo-version: 'latest'
-          # extended: true
+  - name: Get Theme
+    run: git submodule update --init --recursive
 
-      - name: Build
-        run: hugo --minify
+  - name: Update theme to Latest commit
+    run: git submodule update --remote --merge
 
-      - name: Deploy
-        uses: peaceiris/actions-gh-pages@v3
-        if: github.ref == 'refs/heads/main'
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./public
+  - name: Setup hugo
+    uses: peaceiris/actions-hugo@v2
+    with:
+      hugo-version: 'latest'
+
+  - name: Build
+    run: hugo --buildDrafts --gc --verbose --minify
+
+  - name: Deploy
+    uses: peaceiris/actions-gh-pages@v3
+    with:
+      github_token: ${{ secrets.TOKEN }}
+      publish_dir: ./public
 
