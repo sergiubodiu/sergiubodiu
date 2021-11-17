@@ -19,12 +19,12 @@ Moving forward, the fundamentals driving the cloud market will continue to shift
 
 Naturally a lot of digital native business thrived with double digit growth. Cloud native technologies empower organizations to build and run scalable applications in modern, dynamic environments such as public, private, and hybrid clouds. It is not enough to view every company as a software company. 
 
-> "Now, every CIO is a cloud operator" - Paul Cormier, President and Chief Executive Officer[2].
+> "Now, every CIO is a cloud operator" - Paul Cormier, RedHat CEO [2].
 
 ## Focus on "Outcomes" first and "as a Service" second
-CEOs and business leaders are focused on recovering revenue, profit and growth to prepandemic levels. Obviously, the as-a-service solution a customer chooses depends first on the functionality the customer requires, and the expertise it has on staff. 
+As a service model is not a silver bullet. Even the largest cloud providers suffer outages that can impact an organization’s ability to conduct business.  More than 30,0000[3] impacted customers observed Google 404 errors on their websites[4]. To alleviate this, many providers offer multiple availability zones so organizations can failover from one zone to another when and if a disaster or outage strikes. Remember that putting all your eggs in the same basket may be a very bad idea for your mission critical services.
 
-This is not a silver bullet. Even the largest cloud providers suffer outages that can impact an organization’s ability to conduct business.  More than 30,0000[3] impacted customers observed Google 404 errors on their websites[4]. To alleviate this, many providers offer multiple availability zones so organizations can failover from one zone to another when and if a disaster or outage strikes. Remember that putting all your eggs in the same basket may be a very bad idea for your mission critical services.
+CEOs and business leaders are focused on recovering revenue, profit and growth to prepandemic levels. Obviously, the as-a-service solution a customer chooses depends first on the functionality the customer requires, and the expertise it has on staff.
 
 ## External References
 - [1] https://www.idc.com/getdoc.jsp?containerId=prUS48208321
