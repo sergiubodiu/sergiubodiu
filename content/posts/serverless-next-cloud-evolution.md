@@ -14,10 +14,10 @@ The pandemic has jump started and pushed many organizations into full gear to di
   <figcaption>Figure 1: Organizations will continue to invest in serverless. 95 percent of users plan to maintain or increase their serverless investments during the next year. (Source: <a href="https://www.ibm.com/downloads/cas/ZJLWQOAQ">'Serverless in the enterprise, 2021' (PDF, 1.8 MB)</a>)</figcaption>
 </figure>
 
-## Cloud doesn’t stop growing. 
+## The cloud continutes growing. 
 Increasingly, developers are moving to a "cloud native" application development approach. Serverless Computing allows you to build and run applications and services without thinking about servers. With serverless computing, your application still runs on servers, but all the server management is done by a cloud provider like Alibaba[1], AWS[2], Azure[3], GCP[4], IBM[5] (RedHat[6]) etc.
 
-Cloud doesn’t stop growing. In fact, its development is speeding up. Since many businesses are forced to function in a remote environment, a large number of them have decided to adopt Cloud services to be able to operate normally. Numerous companies that were indecisive about digital transformation have now acknowledged the benefits of migrating to Cloud since the pandemic further substantiated them.
+The cloud doesn’t stop growing. In fact, its development is speeding up. Since many businesses are forced to function in a remote environment, a large number of them have decided to adopt Cloud services to be able to operate normally. Numerous companies that were indecisive about digital transformation have now acknowledged the benefits of  migrating to the cloud since having been further substantiated by the pandemic. 
 
 ## Serverless belongs in your application development strategy
 Serverless is a significant breakthrough in the IT industry and has gained popularity in the past few years. Arguably, it is the next big thing that will play a role in an organisations IT strategy and deliver business results. It’s clear that implementing serverless architectures will be a vital part of the mix. You can read what is serverless in the links bellow:
