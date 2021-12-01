@@ -4,9 +4,9 @@ date: 2021-11-24T21:07:17+08:00
 draft: false
 ---
 
-Traditional organization structure follow a top down approach with ideas and strategy defined at the top then distributed to specialized teams that focus on specific technologies, processes, or resources.
+Traditional organization structure follows a top-down approach with ideas and strategy defined at the top then distributed to specialized teams that focus on specific technologies, processes, or resources.
 
-Unfortunately, it’s easy to quickly lose sight of the larger business objectives as the work is divided into more and more specialized teams. This creates a silo effect where working teams are insulated from sister teams, and isolated from the larger organization. The end result is that it generally takes far longer than expected to deliver a product and it often falls well short of the vision.
+Unfortunately, it’s easy to quickly lose sight of the larger business objectives as the tasks are delegated into more and more specialized teams. This creates a silo effect where working teams are insulated from sister teams, and isolated from the larger organization. The end result is that it generally takes far longer than expected to deliver a product and it often falls well short of the vision.
 
 Requirements are handed down and reinterpreted in the language of the team, often losing some aspect of the goal. This leads to a waterfall approach to design and delivery which ultimately leads to late integration between teams where design flaws and omissions often surface and require extensive rework or lengthy procurement cycles to correct.
 
@@ -18,7 +18,7 @@ We need to flip the pyramid and enable self-service creation. The cloud is a mea
 
 <figure>
   <img src="../images/how-to-nuture-a-digital-workforce.png" alt="Cloud as a service outlook 2025">
-  <figcaption>Figure 1: Change for IT is not new, however, the pace and type of change we are seeing today is more than ever before, and as IT leaders, we need to embrace new process, we need to nurture the change to succeed. (Source: Red Hat APAC Transformation Office)</figcaption>
+  <figcaption>Figure 1: Change for IT is not new, however, the pace and type of change we are seeing today is more than ever before, and as IT leaders, we need to embrace new process — we need to nurture the change to succeed. (Source: Red Hat APAC Transformation Office)</figcaption>
 </figure>
 
 I believe that cloud adoption has become increasingly easier and possible because of the cloud-ecosystem of products, vendors and a vast library of customer references that we have available to us today.
