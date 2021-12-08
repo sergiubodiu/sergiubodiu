@@ -9,7 +9,17 @@
       <link>https://sergiubodiu.github.io/sergiubodiu/papermod-cover.png</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Wed, 01 Dec 2021 20:52:00 +0800</lastBuildDate><atom:link href="https://sergiubodiu.github.io/sergiubodiu/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 08 Dec 2021 21:51:03 +0800</lastBuildDate><atom:link href="https://sergiubodiu.github.io/sergiubodiu/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AWS Resolved Its Outage 2021</title>
+      <link>https://sergiubodiu.github.io/sergiubodiu/posts/aws-resolved-its-outage-2021/</link>
+      <pubDate>Wed, 08 Dec 2021 21:51:03 +0800</pubDate>
+      
+      <guid>https://sergiubodiu.github.io/sergiubodiu/posts/aws-resolved-its-outage-2021/</guid>
+      <description>The day the internet paused Amazon Web Services had one of its worst outages ever on Tuesday. The problems cascaded through the company’s retail operation—which uses software and apps that run on AWS—during the holiday shopping rush. Vans sat idle; drivers were sent home; packages piled up at the worst possible time [1].
+Tuesday offered the kind of jolt that reminds us how many products and services are centralized in common data centers run by just a handful of big tech companies like Amazon, Microsoft and Google.</description>
+    </item>
+    
     <item>
       <title>Happy National Day Romania 2021</title>
       <link>https://sergiubodiu.github.io/sergiubodiu/posts/happy-national-day-romania-2021/</link>
