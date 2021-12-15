@@ -8,7 +8,7 @@ draft: false
 Late Tuesday afternoon, cryptocurrency pricing aggregation site CoinMarketCap.com, which is owned by Binance, self-dubbed __"the world's most trusted cryptocurrency data authority,"__ was hit with a shocking cyber failure or attack that artificially inflated individual crypto coins' value[1].
 
 <figure>
-  <img src="../images/how-to-be-a-trillionaire-crypto-crash.jpg" alt="One bitcoin was worth $779 billions">
+  <img src="../images/how-to-be-a-trillionaire-crypto-crash.png" alt="One bitcoin was worth $779 billions">
   <figcaption>Figure 1: One bitcoin was worth $779 billions (Source: <a href="https://coinmarketcap.com">'CoinMarketCap.com'</a>)</figcaption>
 </figure>
 
