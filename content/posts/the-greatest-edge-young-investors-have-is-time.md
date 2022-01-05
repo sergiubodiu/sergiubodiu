@@ -39,10 +39,10 @@ Buffett was preaching about the flywheel effect before it became cool. Back then
 
 The term __economic moat__ describes a company’s ability to maintain its competitive advantages and defend its long-term profitability. A company's competitive position either grows stronger or weaker each day. Most companies are working hard to widen the moat, a business without moat will have its returns competed away.
 
-Regardless of improvement, your competitors will quickly copy your advantage away. If the returns on capital is dismal, reinvestment will only destroy value.
+Regardless of improvement, your competitors will quickly copy your advantage away. If the returns on capital are dismal, reinvestment will only destroy value.
 
 ## Want to trade but don't know where to start? 
-Learning how to trade the financial markets begins with __educating oneself__ on reading the financial markets via charts and price action. Practice makes perfect or, at the very least, it allows the begginer to test out theories before committing real funds.
+Learning how to trade the financial markets begins with __educating oneself__ on reading the financial markets via charts and price action. Practice makes perfect or, at the very least, it allows the beginner to test out theories before committing real funds.
 
 Many brokers let clients engage in paper trading with their real money entry systems, Investopedia [3] has a free stock market game. 
 
@@ -54,7 +54,7 @@ Many brokers let clients engage in paper trading with their real money entry sys
 
 As you get more experienced you may want to join __FinTwit__, which is a short word for Financial Twitter which is a community of investors, traders on Twitter who share their trading ideas, what they have traded, what they follow and what their opinion is about financial markets. And the most important *FinTwit is FREE to use*. To join FinTwit is pretty easy or you can read here more about it [4]
 
-You can also kickstartthe journey by listening to __"Trading for a Living (audiobook)"__ - Dr. Alexander Elder [5]
+You can also kickstart the journey by listening to __"Trading for a Living (audiobook)"__ - Dr. Alexander Elder [5]
 
 It is time in the market, not timing the market, that is the key to wealth creation.
 
