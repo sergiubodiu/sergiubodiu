@@ -31,7 +31,7 @@ Xerox was eventually able to embrace *laser printers* and make them a success in
 
 ## Balancing exploration and exploitation
 
-However adding devops and cloud on all our problems is *not a silver bullet*. When we travel, hopefully soon, when you get on an airplane you want to hear that the pilot has gone through every conceivable checklist, You don't want the pilot say *"Guess what we're going to try an Agile take-off Today, haven't checked the fuel, don't know if all the mechanical issues have been resolved, not going to listen to some bureaucratic air-traffic controller, we're going straight to the front of the line, we're going to take off and it's going to be thrilling, and if it's not going to work this time we will try next time"* an analogy by Darrell Rigby - The Agile Organization: Balancing Efficiency and Innovation [2]. 
+However adding devops and cloud on all our problems is *not a silver bullet*. When we tsravel, hopefully soon, when you get on an airplane you want to hear that the pilot has gone through every conceivable checklist, You don't want the pilot say *"Guess what we're going to try an Agile take-off Today, haven't checked the fuel, don't know if all the mechanical issues have been resolved, not going to listen to some bureaucratic air-traffic controller, we're going straight to the front of the line, we're going to take off and it's going to be thrilling, and if it's not going to work this time we will try next time"* an analogy by Darrell Rigby - The Agile Organization: Balancing Efficiency and Innovation [2]. 
 
 __Exploration__ is about coming up with what's new. It's about discovery, building new products and continuously searching for new innovations.  We all know that exploration is risky. We don't know the answers, we don't know if we're going to find them, and we know that the risks are high. 
 
@@ -54,6 +54,6 @@ It’s not that growth initiatives don’t exist. There is a lot going on. Most 
 It’s more important than ever for companies to focus on inventing the future, while managing the present. The ambition - to build a business that will thrive in a world of unpredictable and accelerating change. 
 
 ## External References
-- [1] https://www.ted.com/talks/knut_haanaes_two_reasons_companies_fail_and_how_to_avoid_them
+- [1] https://en.wikipedia.org/wiki/Xerox_Alto
 - [2] https://hbr.org/webinar/2020/07/the-agile-organization-balancing-efficiency-and-innovation-even-in-tough-times
-- [3] https://en.wikipedia.org/wiki/Xerox_Alto
+- [3] https://www.ted.com/talks/knut_haanaes_two_reasons_companies_fail_and_how_to_avoid_them
