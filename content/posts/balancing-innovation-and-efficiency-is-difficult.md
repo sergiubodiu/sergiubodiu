@@ -8,7 +8,7 @@ draft: false
 
 What happens to companies as they become more competent? When it comes to innovation inside large companies, the balance of power tips heavily toward improving their known and proven business model. They under-invest in the exploration of new value propositions and business models. More importantly, there’s a considerable lack of power when it comes to growth or __transformative innovation__.
 
-Business leaders realize that the pace of competition has increased. To keep pace with this changing environment, leaders aspire to create nimble, flexible enterprises. Yet many recognize that their day-to-day reality is silos, sluggish processes, and stalled innovation.
+Business leaders realize that the pace of competition has increased. To keep pace with this changing environment, leaders aspire to create nimble, flexible enterprises. Yet many recognize that their day-to-day reality is silos, sluggish processes and stalled innovation.
 
 <figure>
   <img src="../images/balancing-innovation-and-efficiency-is-difficult.png" alt="Balancing Innovation and Efficiency Is Difficult">
@@ -31,7 +31,7 @@ Xerox was eventually able to embrace *laser printers* and make them a success in
 
 ## Balancing exploration and exploitation
 
-However adding devops and cloud on all our problems is *not a silver bullet*. When we tsravel, hopefully soon, when you get on an airplane you want to hear that the pilot has gone through every conceivable checklist, You don't want the pilot say *"Guess what we're going to try an Agile take-off Today, haven't checked the fuel, don't know if all the mechanical issues have been resolved, not going to listen to some bureaucratic air-traffic controller, we're going straight to the front of the line, we're going to take off and it's going to be thrilling, and if it's not going to work this time we will try next time"* an analogy by Darrell Rigby - The Agile Organization: Balancing Efficiency and Innovation [2]. 
+However adding devops and cloud on all our problems is *not a silver bullet*. When we travel, hopefully soon, when you get on an airplane you want to hear that the pilot has gone through every conceivable checklist, You don't want the pilot say *"Guess what we're going to try an __Agile take-off__ Today, haven't checked the fuel, don't know if all the mechanical issues have been resolved, not going to listen to some bureaucratic air-traffic controller, we're going straight to the front of the line, we're going to take off and it's going to be thrilling, and if it's not going to work this time we will try next time"* an analogy by Darrell Rigby - The Agile Organization: Balancing Efficiency and Innovation [2]. 
 
 __Exploration__ is about coming up with what's new. It's about discovery, building new products and continuously searching for new innovations.  We all know that exploration is risky. We don't know the answers, we don't know if we're going to find them, and we know that the risks are high. 
 
@@ -39,7 +39,7 @@ __Exploitation__ is the opposite. Exploitation is taking the knowledge we have a
 
 Exploitation and Exploration are complementary, interdependent, mutually beneficial capabilities. If you think Innovation is risky, try stagnation. So if we take a long-term perspective, we explore. If we take a short-term perspective, we exploit it. __Bureaucracies__ tend to overextend their strengths, creating dangerously unbalanced systems. Companies become, by nature, less innovative as they become more competent.
 
-> "The real solution to quality growth is figuring out the balance between two activities: exploration and exploitation. Both are necessary, but it can be too much of a good thing. " - Knut Haanaes [3]
+> "The real solution to quality growth is figuring out the balance between two activities: exploration and exploitation. Both are necessary, but it can be too much of a good thing." - Knut Haanaes [3]
 
 Is it possible to run a company and reinvent it at the same time? For business strategist Knut Haanaes, the ability to innovate after becoming successful is the mark of a great organization. He shares insights on how to strike a balance between perfecting what we already know and exploring totally new ideas using the following four lessons:
 1. *Get ahead of the crisis*
