@@ -1,10 +1,10 @@
 ---
-title: "Compounding effect and how to create an Investment Checklist"
+title: "Compound effect and how to create an Investment Checklist"
 date: 2022-01-17T12:45:34+08:00
 draft: false
 ---
 
-## The compounding effect
+## The compound effect
 All good things in life come from __#compounding__, be it __knowledge__, __health__ and even __wealth__! The compound effect meaning is exactly what it sounds like. As you may know from finance, compound interest can lead to surprisingly large returns. A penny that doubles in value each day for *31 days* ends up being worth over __$10 million__.
 
 Same concept is applied to __Learning__. Read something like even 5 pages a day. Write something you like, it does not matter how long it is. Discover new methods to take photos if you are in love with photography. Enter the world of podcasts and educational stuff. Watch documentaries along with scientific movies.
