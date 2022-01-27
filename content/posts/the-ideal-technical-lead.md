@@ -27,20 +27,20 @@ The introduction of personal computing changed software engineering. Old ways of
 
 <figure>
   <img src="../images/history-of-software-engineering.png" alt="History of Software Engineering">
-  <figcaption><a href="https://www.youtube.com/watch?v=QUz10Z1AfLc">"History of Software Engineering"</a>) with Grady Booch </figcaption>
+  <figcaption>Adapted from <a href="https://www.youtube.com/watch?v=QUz10Z1AfLc">"History of Software Engineering" with Grady Booch</a> </figcaption>
 </figure>
 
-Grady gives a tour of how we have developed software-intensive systems, from the time when computers were human, to now, where we are crafting computers that act like humans. Along the way he highlights the stories of the people who made this work manifest [^3].
+Grady gives a tour of how we have developed _software-intensive_ systems, from the time when **computers were human**, to now, where we are crafting __computers that act like humans__. Along the way he highlights the stories of the people who made this work manifest [^3].
 
-No matter what future we may envision, it relies on software that has not yet been written. The entire **history** of software engineering can be seen as one of raising levels of abstraction. And yet, in each phase of this journey, there have been particular technical, social, and economic forces that have shaped each style, and even now act upon our field to shape its future. 
+No matter what future we may envision, it relies on software that _has not yet been written_. The entire **history** of software engineering can be seen as one of raising levels of abstraction. And yet, in each phase of this journey, there have been particular technical, social, and economic forces that have shaped each style, and even now act upon our field to shape its future. 
 
-High profit margins attract competition like bees to honey. Smaller companies will attempt to break into the market to get a slice of the pie. Capitalism is brutal and competition will erode a company’s margins as it slows down revenue growth and reduces pricing power.
+High profit margins attract competition like bees to honey. **Smaller startups** will attempt to break into the market to get a slice of the pie. Capitalism is brutal and competition will erode a company’s margins as it slows down revenue growth and reduces pricing power.
 
-Why, all of a sudden, are so many successful business leaders urging their companies and colleagues to make more mistakes and embrace more failures? If you’re not prepared to fail, you’re not prepared to learn. Too many leaders live in fear of mistakes, missteps, and disappointments. But if you’re not prepared to fail, you’re not prepared to learn [^4].
+Why, all of a sudden, are so many successful business leaders urging their companies and colleagues to **make more mistakes and embrace more failures**? If you’re not prepared to fail, you’re not prepared to learn. Too many leaders live in fear of mistakes, missteps, and disappointments. But if you’re not prepared to fail, you’re not prepared to learn [^4].
 
 ## Engineering Intelligence
 
-Software development is now about connecting disparate pieces of established software and open-source code and figuring out how to integrate with a company’s proprietary code for the best results.
+Software development is now about connecting disparate pieces of established software and **open-source** code and figuring out how to _integrate with a company’s proprietary code_ for the best results.
 
 **Engineering intelligence** is a technology-driven process for analyzing data and presenting actionable information to help developers and IT leaders to make better-informed engineering decisions. Engineering intelligence provides the necessary information to enable business intelligence. Leaders can look at those dashboards that support data-driven decision making at a technical, product and business level.  Better engineering intelligence equals better business intelligence [^5]. 
 
