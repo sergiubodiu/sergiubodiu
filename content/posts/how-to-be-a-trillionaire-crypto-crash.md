@@ -5,7 +5,7 @@ draft: false
 ---
 
 ## One bitcoin was worth $779 billions
-Late Tuesday afternoon, cryptocurrency pricing aggregation site CoinMarketCap.com, which is owned by Binance, self-dubbed __"the world's most trusted cryptocurrency data authority,"__ was hit with a shocking cyber failure or attack that artificially inflated individual crypto coins' value[1].
+Late Tuesday afternoon, cryptocurrency pricing aggregation site CoinMarketCap.com, which is owned by Binance, self-dubbed __"the world's most trusted cryptocurrency data authority,"__ was hit with a shocking cyber failure or attack that artificially inflated individual crypto coins' value [^1].
 
 <figure>
   <img src="../images/how-to-be-a-trillionaire-crypto-crash.png" alt="One bitcoin was worth $779 billions">
@@ -17,11 +17,11 @@ A __system failure__ that artificially sent coin and token prices skyrocketing t
 > **"Our website is currently undergoing Price Issues - The Engineering team is aware of incorrect price information appearing on CoinMarketCap.com. We are currently investigating and will update this status when we have more information."** - @CoinMarketCap Twitter
 
 ## How did it feel to be a trillionaire for a couple of hours?
-Crypto traders experienced a moment of joy, followed by confusion, when a glitch caused several data aggregators to briefly display enormous gains for Bitcoin, Ether and other cryptocurrencies. 
+Crypto traders experienced a moment of joy, followed by confusion, when a glitch caused several _data aggregators_ to briefly display **enormous gains** for Bitcoin, Ether and other cryptocurrencies [^2]. 
 
-The momentary glitch also impacted Cointelegraph’s price indexes. CoinMarketCap and several other price indexes showed Bitcoin’s price closing to **$900 billion** as ETH showed over **$81 billion**.[2]
+The momentary glitch also impacted Cointelegraph’s price indexes. CoinMarketCap and several other price indexes showed Bitcoin’s price closing to **$900 billion** as ETH showed over **$81 billion** [^3].
 
-Even prices of cryptocurrencies listed on **Coinbase Global Inc**. briefly went haywire, with many tokens showing astronomical gains, noting that trading wasn’t impacted. A few minutes later, Coinbase said it’s still investigating asset price and trade difficulties in _Coinbase Wallet_, which allows customers to manage their crypto assets. [3]
+Even prices of cryptocurrencies listed on **Coinbase Global Inc**. briefly went haywire, with many tokens showing astronomical gains, noting that trading wasn’t impacted. A few minutes later, Coinbase said it’s still investigating asset price and trade difficulties in _Coinbase Wallet_, which allows customers to manage their crypto assets [^4].
 
 > **"Following the irregularities we observed on our platform this afternoon, despite the issue having been fixed, we will be rebooting our servers as a final step in accordance with our internal remediation plan. Apologies for the inconvenience."** - @CoinMarketCap Twitter
 
@@ -36,10 +36,10 @@ Sites like **CoinMarketCap** and **CoinGecko** are gatekeepers of the crypto wor
 I was a crypto enthusiast many years ago, on recommendation if you want to get practical, easy to understand cryptocurrency skills, learn from industry experts like **Andreas M. Antonopoulos** [6] or from the official website like **Bitcoin.org** [7]
 
 ## External References
-- [1] https://www.fool.com/the-ascent/cryptocurrency/articles/coinmarketcap-suffers-a-seeming-hack-falsely-driving-crypto-prices-to-tens-of-billions/
-- [2] https://www.ibtimes.com/coinmarketcap-glitch-makes-many-crypto-investors-trillionaires-briefly-3357854 
-- [3] https://www.bloomberg.com/news/articles/2021-12-14/crypto-prices-go-haywire-on-coinbase-other-data-providers
-- [4] https://www.marketwatch.com/story/coinbase-coinmarketcap-briefly-display-erratic-cryptocurrency-price-action-11639522799
-- [5] https://cointelegraph.com/news/witnesses-offer-differing-opinions-on-approach-to-stablecoins-at-congressional-hearing?utm_content=buffer0ee0a&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer
-- [6] https://aantonop.com/workshops/
-- [7] https://bitcoin.org/en/how-it-works
+[^1]: https://www.fool.com/the-ascent/cryptocurrency/articles/coinmarketcap-suffers-a-seeming-hack-falsely-driving-crypto-prices-to-tens-of-billions/
+[^2]: https://www.ibtimes.com/coinmarketcap-glitch-makes-many-crypto-investors-trillionaires-briefly-3357854 
+[^3]: https://www.bloomberg.com/news/articles/2021-12-14/crypto-prices-go-haywire-on-coinbase-other-data-providers
+[^4]: https://www.marketwatch.com/story/coinbase-coinmarketcap-briefly-display-erratic-cryptocurrency-price-action-11639522799
+[^5]: https://cointelegraph.com/news/witnesses-offer-differing-opinions-on-approach-to-stablecoins-at-congressional-hearing
+[^6]: https://aantonop.com/workshops/
+[^7]: https://bitcoin.org/en/how-it-works
